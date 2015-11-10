@@ -44,5 +44,5 @@ public class Splash extends Activity {
 }
 
 /**
- * Created by Karthik M on 05-Jul-15.
+ * Created by Advait T on 05-Jul-15.
  */
