@@ -12,7 +12,7 @@ package com.androidwebviewapp.advait;
 	
 	@Override
 	public boolean shouldOverrideUrlLoading(WebView view, String url) {
-	if(Uri.parse(url).getHost().endsWith("androidtechfreakat.blogspot.in")) {
+	if(Uri.parse(url).getHost().endsWith(".androidtechfreakat.blogspot.in")) {
 	return false;
 	}
 	
